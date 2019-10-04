@@ -1,7 +1,6 @@
 package by.epam.jb29.task09;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 
 public class Customers_Test {
